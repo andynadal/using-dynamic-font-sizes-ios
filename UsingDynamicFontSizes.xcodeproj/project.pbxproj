@@ -80,6 +80,7 @@
 		BA10050427A21CF000659042 /* ComplexTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexTableViewController.swift; sourceTree = "<group>"; };
 		BA10050627A21D4A00659042 /* ComplexCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComplexCell.swift; sourceTree = "<group>"; };
 		BA10050827A221CD00659042 /* UIImage+CreateThumbnail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIImage+CreateThumbnail.swift"; sourceTree = "<group>"; };
+		BA73BDB127A22AE700127AAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -127,6 +128,7 @@
 				BA1004FA27A2136100659042 /* Comment.swift */,
 				BA1004FC27A215DE00659042 /* Photo.swift */,
 				BA10050827A221CD00659042 /* UIImage+CreateThumbnail.swift */,
+				BA73BDB127A22AE700127AAA /* README.md */,
 			);
 			path = UsingDynamicFontSizes;
 			sourceTree = "<group>";
